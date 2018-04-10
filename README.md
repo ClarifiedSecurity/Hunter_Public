@@ -1,1 +1,1 @@
-# Hunter_Public
+An extremely simple live query utility.
